@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<8uftp>
+<Settings>
+<Item name="Default Folder" type="string">D:\APMServ5.2.6\www\71TV\install\</Item>
+<Item name="Last Window Size" type="string">1 728 100 1764 762</Item>
+<Item name="Last Splitter Pos" type="string">773 160 528 1381 528</Item>
+<Item name="Last Server Pass" type="string">045037036040032</Item>
+<Item name="Last Server Path" type="string">256 0 6 htdocs 8 templets 6 muban3</Item>
+<Item name="Last Server Type" type="numeric">256</Item>
+<Item name="No toolbar" type="numeric">0</Item>
+<Item name="No Quickconnbar" type="numeric">0</Item>
+<Item name="No Statusbar" type="numeric">0</Item>
+<Item name="No Messagelog" type="numeric">0</Item>
+<Item name="No Treeview" type="numeric">0</Item>
+<Item name="Show Remote Treeview" type="numeric">1</Item>
+<Item name="No Queue" type="numeric">0</Item>
+<Item name="Local List View Style" type="numeric">0</Item>
+<Item name="Hide Local Columns" type="numeric">0</Item>
+<Item name="Show Local Statusbar" type="numeric">1</Item>
+<Item name="Remote List View Style" type="numeric">0</Item>
+<Item name="Hide Remote Columns" type="numeric">32</Item>
+<Item name="Show Remote Statusbar" type="numeric">1</Item>
+<Item name="Logontype" type="numeric">0</Item>
+<Item name="FWHost" type="string"></Item>
+<Item name="FWPort" type="numeric">0</Item>
+<Item name="FWUser" type="string"></Item>
+<Item name="FWPass" type="string"></Item>
+<Item name="Timeout Length" type="numeric">30</Item>
+<Item name="Use Keep Alive" type="numeric">1</Item>
+<Item name="Interval Low" type="numeric">15</Item>
+<Item name="Interval High" type="numeric">30</Item>
+<Item name="Retry Delay" type="numeric">5</Item>
+<Item name="Num Retries" type="numeric">5</Item>
+<Item name="Proxy Type" type="numeric">0</Item>
+<Item name="Proxy Host" type="string"></Item>
+<Item name="Proxy Port" type="numeric">0</Item>
+<Item name="Proxy User" type="string"></Item>
+<Item name="Proxy Pass" type="string"></Item>
+<Item name="Proxy Use Logon" type="numeric">0</Item>
+<Item name="Default Folder Type" type="numeric">0</Item>
+<Item name="Sitemanager on startup" type="numeric">0</Item>
+<Item name="SiteManager Folders First" type="numeric">0</Item>
+<Item name="No Expand SiteManager Folders" type="numeric">0</Item>
+<Item name="Transfer Mode" type="numeric">0</Item>
+<Item name="ASCII files" type="string">ASP;BAT;C;CFM;CGI;CONF;CPP;CSS;DHTML;DIZ;H;HPP;HTM;HTML;INC;JS;MAK;NFO;PAS;PATCH;PHP;PHTML;PINERC;PL;QMAIL;SH;SHTML;SQL;TCL;TPL;TXT;VBS;</Item>
+<Item name="No view labels" type="numeric">0</Item>
+<Item name="Remember View settings" type="numeric">0</Item>
+<Item name="Remember Window Size" type="numeric">0</Item>
+<Item name="Minimize to Tray" type="numeric">0</Item>
+<Item name="Remember Local View" type="numeric">0</Item>
+<Item name="Remember Local column widths" type="numeric">0</Item>
+<Item name="Local Filesize format" type="numeric">0</Item>
+<Item name="Local doubleclick action" type="numeric">0</Item>
+<Item name="Remember Remote View" type="numeric">0</Item>
+<Item name="Remember Remote column widths" type="numeric">0</Item>
+<Item name="Remote Filesize format" type="numeric">1</Item>
+<Item name="Always Show Hidden Files" type="numeric">0</Item>
+<Item name="Remote doubleclick action" type="numeric">0</Item>
+<Item name="Use GSS" type="numeric">0</Item>
+<Item name="GSS enabled servers" type="string">mit.edu;</Item>
+<Item name="Debug Trace" type="numeric">0</Item>
+<Item name="Debug Show Listing" type="numeric">0</Item>
+<Item name="Enable debug menu" type="numeric">0</Item>
+<Item name="Limit Port Range" type="numeric">0</Item>
+<Item name="Port Range Low" type="numeric">1</Item>
+<Item name="Port Range High" type="numeric">65535</Item>
+<Item name="Transfer IP" type="string"></Item>
+<Item name="Use directory cache" type="numeric">1</Item>
+<Item name="Max Dir Cache Time" type="numeric">1800</Item>
+<Item name="Preserve DL file time" type="numeric">0</Item>
+<Item name="Primary TransferMax Size" type="numeric">1024</Item>
+<Item name="Transfer Api Count" type="numeric">3</Item>
+<Item name="Use multiple connections" type="numeric">1</Item>
+<Item name="File exists Action" type="numeric">0</Item>
+<Item name="Default View Edit Prog" type="string"></Item>
+<Item name="Custom View Edit Progs" type="string"></Item>
+<Item name="Use Ident server" type="numeric">0</Item>
+<Item name="Ident when connecting only" type="numeric">0</Item>
+<Item name="Ident reply same IP" type="numeric">0</Item>
+<Item name="Ident UserID" type="string"></Item>
+<Item name="Ident OS" type="string">UNIX</Item>
+<Item name="SpeedLimit Download Type" type="numeric">0</Item>
+<Item name="SpeedLimit Download Value" type="numeric">10</Item>
+<Item name="SpeedLimit Upload Type" type="numeric">0</Item>
+<Item name="SpeedLimit Upload Value" type="numeric">10</Item>
+<Item name="SpeedLimit Download Rules" type="string"></Item>
+<Item name="SpeedLimit Upload Rules" type="string"></Item>
+<Item name="Local treeview location" type="numeric">0</Item>
+<Item name="Remote treeview location" type="numeric">0</Item>
+<Item name="Debug Log To File" type="numeric">0</Item>
+<Item name="Debug Log File" type="string"></Item>
+<Item name="Use custom messaglog font" type="numeric">0</Item>
+<Item name="Messagelog font name" type="string">ËÎÌå</Item>
+<Item name="Messagelog font size" type="numeric">9</Item>
+<Item name="Pasv" type="numeric">1</Item>
+</Settings>
+<RecentServers>
+<Server Host="192.168.0.161" Port="21" User="admin" Pass="045037036040032" FirewallBypass="0" DontRememberPass="0" ServerType="256" Path="" PasvMode="0" TimeZoneOffset="0"/>
+<Server Host="192.168.0.162" Port="21" User="admin" Pass="045037036040032" FirewallBypass="0" DontRememberPass="0" ServerType="256" Path="" PasvMode="0" TimeZoneOffset="0"/>
+</RecentServers>
+<TransferQueue/>
+</8uftp>
